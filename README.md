@@ -2,3 +2,5 @@
 
 - Anaconda : https://www.anaconda.com/
 - Vs code: https://code.visualstudio.com/download
+- Flowchart: https://whismsical.com/
+- MLOps Tools: https://evidentlyai.com
